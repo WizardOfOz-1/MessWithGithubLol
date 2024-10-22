@@ -70,4 +70,4 @@ and paste whatever the program generated for you. Then,
 git push origin main
 ```
 and voila, the contrib chart is your canvas, Though Id Suggest You Be More Creative Than me:
-
+![LOL](https://github.com/WizardOfOz-1/MessWithGithubLol/blob/main/assets/screenshot-20241022141647.png?raw=true)
