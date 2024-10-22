@@ -69,4 +69,5 @@ and paste whatever the program generated for you. Then,
 ```bash
 git push origin main
 ```
-and voila, the contrib chart is your canvas. 
+and voila, the contrib chart is your canvas, Though Id Suggest You Be More Creative Than me:
+
